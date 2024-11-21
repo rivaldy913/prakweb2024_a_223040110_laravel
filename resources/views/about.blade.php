@@ -10,6 +10,8 @@
 <body>
     <a href="/">Home</a>
     <a href="/about">About</a>
+    <a href="/blog">Blog</a>
+    <a href="/contact">Contact</a>
     <h1>Halaman About Rivaldy</h1>
     <h3>Owner: {{ $nama }}</h3>
     <img src="img/rivaldy.jpg" alt="Rivaldy Novyan Dwi Putra" width="200">
